@@ -1,8 +1,4 @@
-import Core.Kcal;
-import MIngrediens.Carbohydrate;
-import MIngrediens.Fat;
-import MIngrediens.GroupOfMacroIngredients;
-import MIngrediens.Protein;
+package MIngrediens;
 
 public class Ingredient {
     private String name;

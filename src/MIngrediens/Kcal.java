@@ -1,4 +1,4 @@
-package Core;
+package MIngrediens;
 
 public class Kcal {
 

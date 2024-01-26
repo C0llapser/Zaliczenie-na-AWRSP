@@ -1,6 +1,5 @@
 package MIngrediens;
 import Core.DailyPhisicalEffort;
-import Core.Kcal;
 
 public class Protein extends MacroIngrediens{
 

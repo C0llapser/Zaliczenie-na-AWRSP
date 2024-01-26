@@ -1,7 +1,6 @@
 package MIngrediens;
 
 import Core.DailyPhisicalEffort;
-import Core.Kcal;
 
 public class Fat extends MacroIngrediens{
 

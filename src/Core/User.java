@@ -1,11 +1,6 @@
 package Core;
 
-import MIngrediens.Carbohydrate;
-import MIngrediens.Fat;
-import MIngrediens.GroupOfMacroIngredients;
-import MIngrediens.Protein;
-
-import javax.xml.crypto.Data;
+import MIngrediens.*;
 
 public class User {
 
@@ -24,6 +19,9 @@ public class User {
 
     public void setDaylyAllMacroDemand(GroupOfMacroIngredients daylyAllMacroDemand) {
         this.daylyAllMacroDemand = daylyAllMacroDemand;
+    }
+
+    public User() {
     }
 
     public User(String imie, String nazwisko, int age, int weight, DailyPhisicalEffort dpf) {

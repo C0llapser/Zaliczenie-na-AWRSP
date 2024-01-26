@@ -1,6 +1,9 @@
-import Core.Kcal;
+package Helpers;
+
+import MIngrediens.Kcal;
 import Core.User;
 import MIngrediens.GroupOfMacroIngredients;
+import Core.Meal;
 
 public class UserHelper {
 

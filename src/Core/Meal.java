@@ -1,10 +1,8 @@
-import Core.Kcal;
-import MIngrediens.Carbohydrate;
-import MIngrediens.Fat;
-import MIngrediens.GroupOfMacroIngredients;
-import MIngrediens.Protein;
+package Core;
 
-import java.net.Inet4Address;
+import MIngrediens.Kcal;
+import MIngrediens.*;
+
 import java.util.*;
 
 public class Meal {
